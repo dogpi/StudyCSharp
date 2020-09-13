@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{47AB2FD4-3BE3-4176-B7AD-5C303D00B6D1}</ProjectGuid>
+    <ProjectGuid>{0B81D534-8211-4276-8D8D-51CE3689FB3E}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>_005004自定义事件_复杂_</RootNamespace>
-    <AssemblyName>005004自定义事件（复杂）</AssemblyName>
+    <RootNamespace>_007自定义事件_简略_</RootNamespace>
+    <AssemblyName>007自定义事件（简略）</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
